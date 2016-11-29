@@ -8,6 +8,17 @@ import java.util.Random;
  */
 public class SimpleTest {
 
+  // @Test
+   public void alwaysPass1()
+   {
+       Assert.assertEquals(1, 1);
+   }
+
+     @Test
+    public void alwaysPass2()
+    {
+        Assert.assertEquals(1, 1);
+    }
   
 
       @Test
