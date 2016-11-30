@@ -8,7 +8,7 @@ import java.util.Random;
  */
 public class SimpleTest {
 
-    //@Test
+    @Test
    public void alwaysPass3()
    {
        Assert.assertEquals(1, 1);
