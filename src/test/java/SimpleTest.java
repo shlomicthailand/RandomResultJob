@@ -7,7 +7,12 @@ import java.util.Random;
  * Created by gadiel on 15/11/2016.
  */
 public class SimpleTest {
-
+//Some new thing
+      public void alwaysPass4()
+   {
+       Assert.assertEquals(1, 1);
+   }
+   
    //@Test
    public void alwaysPass3()
    {
